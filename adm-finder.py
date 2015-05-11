@@ -25,7 +25,7 @@ class adminfinder():
     print bcolors.HEADER + "\t#       #########      #### ####   ##########                     #" + bcolors.ENDC
     print bcolors.HEADER + "\t#         #####        #### ####   #########                      #" + bcolors.ENDC
     print bcolors.HEADER + "\t#          ###         #### ####   ##########                     #" + bcolors.ENDC
-    print bcolors.HEADER + "\t#          ###         #### ####   #####   #####  ADMIN LOCATER   #" + bcolors.ENDC
+    print bcolors.HEADER + "\t#          ###         #### ####   #####   #####   ADMIN FINDER   #" + bcolors.ENDC
     print bcolors.HEADER + "\t#          ###         #### ####   #####    #####   by Hades.y2k  #" + bcolors.ENDC
     print bcolors.HEADER + "\t#          ###         #### ####   #####    ######    version 1.0 #" + bcolors.ENDC
     print bcolors.HEADER + "\t###################################################################" + bcolors.ENDC
