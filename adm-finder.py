@@ -1,4 +1,5 @@
 # Author:    Hades.y2k
+# Contrubutions: AnonyminHack5
 # Version:   1.0
 # Date:      11/05/2015
 # License:   <OpenSource GPL>
@@ -44,7 +45,7 @@ class adminfinder():
                 conn.connect()  # Connecting the website
                 print bcolors.GREEN + "\t[+] Connection Established, It's Online.\n" + bcolors.ENDC
             except (httplib.HTTPResponse, socket.error) as Exit:
-                print bcolors.RED + "\t[!] Cannot Connect the Website, It might be offline or invalid URL.\n" + bcolors.ENDC
+                print bcolors.RED + "\t[!] Cannot Connect to the Website, It might be offline or invalid URL.\n" + bcolors.ENDC
                 sys.exit()
 
             print bcolors.YELLOW + "\t[*] Scanning: " + site + bcolors.ENDC + "\n"
