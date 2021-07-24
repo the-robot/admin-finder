@@ -65,6 +65,7 @@ frontend/
 cpanel-php/
 cpanel-login/
 login.aspx/
+login/
 Login/adminlogin.aspx
 Admin4/AdminLogin.aspx
 AdminLogin.aspx
