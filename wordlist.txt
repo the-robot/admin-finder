@@ -7,6 +7,9 @@ admin4/
 admin5/
 usuarios/
 usuario/
+:2068/
+:2024/
+file.php/
 administrator/
 moderator/
 webadmin/
